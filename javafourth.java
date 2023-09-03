@@ -7,4 +7,6 @@ last check merge
 
 revert check
 
-git stagging check 
+git stagging check
+
+git add 
