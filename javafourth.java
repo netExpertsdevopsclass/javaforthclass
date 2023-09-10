@@ -9,4 +9,7 @@ revert check
 
 git stagging check
 
-git add 
+git add
+
+git key added 
+
