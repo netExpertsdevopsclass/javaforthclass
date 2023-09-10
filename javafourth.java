@@ -13,3 +13,4 @@ git add
 
 git key added 
 
+git merged   
