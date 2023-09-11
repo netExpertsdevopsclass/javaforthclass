@@ -15,4 +15,8 @@ git key added
 
 git merged   
 
-first line added 
+first line added
+second line added 
+third line added 
+forth line 
+
